@@ -1,0 +1,15 @@
+body {
+	margin:25px 700px;
+	background-image:url(rofls.jpg);
+}
+h1 {
+	font-weight:bold;
+	font-family:Verdana;
+	text-align:center;
+	color:Red;
+}
+video {
+	align:center;
+	border:7px solid red;
+	border-radius:10px;
+}
